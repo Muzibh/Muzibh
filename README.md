@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muzibh
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently learning C++, Java, HTML, CSS AND SQL
-- 💞️ I’m looking to collaborate on interesting and fun software development
+- 💞️ I’m looking to collaborate on useful and exciting software development projects
 - 📫 How to reach me 223030544@student.uj.ac.za
 
 <!---
